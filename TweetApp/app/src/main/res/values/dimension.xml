@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="s_small_margin">2dp</dimen>
+    <dimen name="m_small_margin">4dp</dimen>
+    <dimen name="l_small_margin">6dp</dimen>
+    <dimen name="s_medium_margin">8dp</dimen>
+    <dimen name="m_medium_margin">10dp</dimen>
+    <dimen name="l_medium_margin">12dp</dimen>
+    <dimen name="s_large_margin">15dp</dimen>
+    <dimen name="l_large_margin">18dp</dimen>
+</resources>
